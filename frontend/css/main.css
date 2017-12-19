@@ -1,0 +1,60 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:black;
+}
+
+#submit{
+    height:3vh;
+    width:10vw;
+}
+.container{
+    margin-top:10vh;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+#jaundice{
+    display:none;
+}
+
+button {
+    margin-top:5vh;
+    height:5vh;
+    width:30vw;
+    color:white;
+    border:none;
+    background-color: red;
+    font-size:2vh;
+    text-align: center;
+    
+    
+}
+#video{
+    display:none;
+}
+#canvas{
+    display:none;
+}
+
+#chartContainer{
+    margin-top:10vh;
+    width:90vw;
+}
+
+.hear{
+    display:none;
+}
+
+#jaundice-box{
+    display:none;
+    margin-top:5vh;
+    height:10vh;
+    width:30vw;
+    color:white;
+    background-color: black;
+    font-size:4vh;
+    text-align: center;
+
+}
+
