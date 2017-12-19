@@ -1,0 +1,2 @@
+# SmartDoctor
+A web app to self diagnose illnesses and perform your daily health check. Winning project of the Practo Sandbox Hackathon
